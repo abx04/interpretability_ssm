@@ -1,4 +1,4 @@
-# interpretability_ssm
+# Interpretability study of CodeSSM
 We provide the code for kernel analysis and DirectProbe.
 
 The results included in the paper are also provided. 
